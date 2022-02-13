@@ -1,0 +1,12 @@
+[submodule "custard-core"]
+	path = custard-core
+	url = https://github.com/ashlotl/custard-core
+[submodule "custard-use"]
+	path = custard-use
+	url = https://github.com/ashlotl/custard-use.git
+[submodule "custard-test-core"]
+	path = custard-test-core
+	url = https://github.com/ashlotl/custard-test-core.git
+[submodule "custard-example-entrypoint"]
+	path = custard-example-entrypoint
+	url = https://github.com/ashlotl/custard-example-entrypoint
