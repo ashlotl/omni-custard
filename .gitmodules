@@ -10,3 +10,6 @@
 [submodule "custard-example-entrypoint"]
 	path = custard-example-entrypoint
 	url = https://github.com/ashlotl/custard-example-entrypoint
+[submodule "user-crates/custard-basics-test-a"]
+	path = user-crates/custard-basics-test-a
+	url = https://github.com/ashlotl/custard-basics-test-a
