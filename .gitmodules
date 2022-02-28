@@ -13,3 +13,6 @@
 [submodule "user-crates/custard-basics-test-a"]
 	path = user-crates/custard-basics-test-a
 	url = https://github.com/ashlotl/custard-basics-test-a
+[submodule "custard-macros"]
+	path = custard-macros
+	url = https://github.com/ashlotl/custard-macros.git
