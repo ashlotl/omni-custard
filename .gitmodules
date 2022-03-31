@@ -16,3 +16,6 @@
 [submodule "custard-macros"]
 	path = custard-macros
 	url = https://github.com/ashlotl/custard-macros.git
+[submodule "user-crates/custard-performance-test"]
+	path = user-crates/custard-performance-test
+	url = https://github.com/ashlotl/custard-performance-test
