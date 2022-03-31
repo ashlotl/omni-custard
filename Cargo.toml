@@ -1,6 +1,7 @@
 [workspace]
 members = [
 	"user-crates/custard-basics-test-a",
+	"user-crates/custard-performance-test",
 	
 	"custard-core",
 	"custard-example-entrypoint",
